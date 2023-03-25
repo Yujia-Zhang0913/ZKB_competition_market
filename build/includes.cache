@@ -1,0 +1,52 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "e:\\code\\zkb\\build\\sketch\\113.ino.cpp",
+    "Include": "FlexiTimer2.h",
+    "Includepath": "C:\\Users\\GaGa\\Documents\\Arduino\\libraries\\wimleers-flexitimer2-7338cfb"
+  },
+  {
+    "Sourcefile": "e:\\code\\zkb\\build\\sketch\\113.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "e:\\code\\zkb\\build\\sketch\\113.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\code\\zkb\\build\\sketch\\I2Cdev.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "e:\\code\\zkb\\build\\sketch\\MPU6050.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\GaGa\\Documents\\Arduino\\libraries\\wimleers-flexitimer2-7338cfb\\FlexiTimer2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
